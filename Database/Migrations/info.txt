@@ -1,1 +1,0 @@
-If you are using a database migration tool like Knex.js or Sequelize, this folder can contain migration files. Migration files define the changes to your database schema over time.

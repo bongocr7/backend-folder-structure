@@ -1,1 +1,0 @@
-This folder can hold seed files used to populate the database with initial data. Seed files are typically used during development or testing to provide sample or dummy data.
